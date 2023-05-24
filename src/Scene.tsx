@@ -5,7 +5,7 @@ import {AbsoluteFill, useVideoConfig, Video} from 'remotion';
 import {Phone} from './Phone';
 
 const container: React.CSSProperties = {
-	backgroundColor: 'white',
+	backgroundColor: 'black',
 };
 
 const videoStyle: React.CSSProperties = {
